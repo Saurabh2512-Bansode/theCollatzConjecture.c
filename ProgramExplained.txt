@@ -1,8 +1,8 @@
-//Sean Staz
-//CSci_423
+//saurabh_bansode
+//os_A1
 //09-16-2014
 
-CSCI423 Programming Assignment 1
+CS20b1003 Programming Assignment 1
 |
 |
 |
@@ -48,4 +48,3 @@ Using the program:      First the program will prompt the user to "Enter a posit
                         the Collatz function." So type in your positive number and press enter and it 
                         should print the return of the Collatz funtion on the desired number.
                         
-ENJOY THE HAILSTONE PROGRAM!!!
